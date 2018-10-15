@@ -11,8 +11,9 @@ If you want to use it just download it or clone through the url
 ```
 npm install
 ```
-npm start
 ```
+npm start
+
 ```
 If you just follow the upper command then the application will run on your browser.
 
