@@ -22,7 +22,7 @@ class UserName extends Component {
             name: this.state.name
         }
 
-        console.log(this.props);
+        // console.log(this.props);
         this.props.getGitList(gitName);
 
     }

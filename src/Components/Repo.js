@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function Repo({ repo }) {
-    console.log("Just repo: ---", repo);
+    // console.log("Just repo: ---", repo);
 
     return (
 

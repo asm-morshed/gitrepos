@@ -7,7 +7,7 @@ class ProfileGithub extends Component {
 
 
     render() {
-        console.log("From Profile", this.props.data);
+        // console.log("From Profile", this.props.data);
 
 
         return (
@@ -22,7 +22,7 @@ class ProfileGithub extends Component {
 //     data: PropTypes.array.isRequired
 // }
 function mapStateToProps(state) {
-    console.log("state:::::", state);
+    // console.log("state:::::", state);
 
     return {
         data: state.data
